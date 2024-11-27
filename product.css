@@ -124,7 +124,7 @@ body{
     background-color: white;
     color:var(--color);
  }
- @media(max-widt:700px);
+ @media(max-widt:700px){
     .card{
         grid-template-columns: 1fr;
         margin: 1em;;
@@ -135,6 +135,6 @@ body{
     .card img{
         width: 100%;
     }
- 
+ }
   
  
