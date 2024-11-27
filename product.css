@@ -124,15 +124,5 @@ body{
     background-color: white;
     color:var(--color);
  }
- @media(max-widt:700px);
-    .card{
-        grid-template-columns: 1fr;
-        margin: 1em;;
-    }
-    .card > div{
-        width:100%;
-    }
-    .card img{
-        width: 100%;
-    }
+  
  
